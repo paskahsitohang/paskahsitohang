@@ -47,7 +47,7 @@ Here are some of the recognized certifications I’ve earned:
 - ✅ LinkedIn Learning – Career Essentials in Data Analysis (by Microsoft & LinkedIn)  
 - ✅ Wolfram Research – Statistics Foundations Professional Certificate  
 
-📁 Full list available in: [My Sertificate Repository](https://github.com/paskahsitohang/my-sertificate)
+📁 Full list available in: [My Certificate](https://github.com/paskahsitohang/my-certificate)
 
 ---
 
@@ -59,7 +59,7 @@ A selection of real-world projects I’m building to sharpen my skills in data a
 - Data Cleaning & Transformation in Python  
 - SQL Reporting for Business Operations
 
-📁 Full documentation available in: [Data Analyst Portfolio Repository](https://github.com/paskahsitohang/data-analyst-portfolio)
+📁 Full documentation available in: [My Portfolio](https://github.com/paskahsitohang/data-analyst-portfolio)
 
 ---
 
