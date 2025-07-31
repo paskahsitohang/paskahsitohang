@@ -59,7 +59,7 @@ A selection of real-world projects I’m building to sharpen my skills in data a
 - Data Cleaning & Transformation in Python  
 - SQL Reporting for Business Operations
 
-📁 Full documentation available in: [My Portfolio](https://github.com/paskahsitohang/data-analyst-portfolio)
+📁 Full documentation available in: [My Portfolio](https://github.com/paskahsitohang/data-analyst-portofolio)
 
 ---
 
