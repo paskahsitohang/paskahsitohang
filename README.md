@@ -67,12 +67,19 @@ A selection of real-world projects I’m building to sharpen my skills in data a
 
 I'm always open to meaningful conversations, collaborations, and learning opportunities.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/paskahsitohang) – Let’s connect professionally  
-- 🎓 [Credly](https://www.credly.com/users/paskah-sitohang) – Verified certifications  
-- 🗂️ [My Projects](https://github.com/paskahsitohang/data-analyst-portfolio) – View my data portfolio  
-- 📬 Reach out via GitHub issues or messages
+<p align="left">
+  <a href="https://www.linkedin.com/in/paskahsitohang" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.credly.com/users/paskah-sitohang" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-F47321?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+  </a>
+  <a href="https://github.com/paskahsitohang" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-> 👀 P.S. This profile is continuously evolving — feel free to check back again soon!
+> This profile is continuously evolving — feel free to check back again soon!
 
 ---
 
